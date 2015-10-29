@@ -5,34 +5,9 @@
 	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55px" height="55px"
 	 viewBox="0 0 55 55" enable-background="new 0 0 55 55" xml:space="preserve">
-<g id="ww_23">
-	<g id="ww_70" transform="translate(-4,7)">
-		<g id="ww70arm">
-			<path d="M22.75,27.5h11"/>
-			<path d="M33.75,29h-11c-0.829,0-1.5-0.672-1.5-1.5s0.671-1.5,1.5-1.5h11c0.828,0,1.5,0.672,1.5,1.5S34.578,29,33.75,29z"/>
-		</g>
-		<g id="use8" transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" xlink:href="#ww70arm">
-			<g id="ww70arm_1_">
-				<path d="M25.5,22.736l5.5,9.527"/>
-				<path d="M31.001,33.764c-0.519,0-1.023-0.269-1.3-0.75l-5.5-9.527c-0.415-0.718-0.168-1.635,0.549-2.049
-					c0.718-0.414,1.636-0.168,2.049,0.549l5.5,9.527c0.414,0.718,0.169,1.635-0.549,2.049
-					C31.514,33.699,31.256,33.764,31.001,33.764z"/>
-			</g>
-		</g>
-		<g id="use10" transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" xlink:href="#ww70arm">
-			<g id="ww70arm_2_">
-				<path d="M31,22.736l-5.5,9.527"/>
-				<path d="M25.499,33.764c-0.254,0-0.512-0.064-0.749-0.201c-0.717-0.414-0.963-1.331-0.549-2.049l5.5-9.527
-					c0.414-0.717,1.331-0.963,2.049-0.549c0.718,0.414,0.963,1.331,0.549,2.049l-5.5,9.527
-					C26.521,33.495,26.017,33.764,25.499,33.764z"/>
-			</g>
-		</g>
-	</g>
-	<g id="circle12">
-		<circle cx="24.25" cy="20.5" r="5.5"/>
-	</g>
-	<g id="path14">
-		<polygon points="37.75,50 29.25,50 29.25,47 34.75,47 34.75,8 29.25,8 29.25,5 37.75,5 		"/>
-	</g>
-</g>
+<path id="ww70arm" stroke="#000000" stroke-width="3" stroke-linecap="round" d="M18.75,34.5h11"/>
+<path id="ww70arm_1_" stroke="#000000" stroke-width="3" stroke-linecap="round" d="M21.5,29.736l5.5,9.527"/>
+<path id="ww70arm_2_" stroke="#000000" stroke-width="3" stroke-linecap="round" d="M27,29.736l-5.5,9.527"/>
+<circle id="circle12" cx="24.25" cy="20.5" r="5.5"/>
+<path id="path14" fill="none" stroke="#000000" stroke-width="3" d="M29.25,6.5h7v42h-7"/>
 </svg>
