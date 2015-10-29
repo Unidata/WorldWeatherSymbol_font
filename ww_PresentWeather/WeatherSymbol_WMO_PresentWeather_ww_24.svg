@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55px" height="55px"
+	 viewBox="0 0 55 55" enable-background="new 0 0 55 55" xml:space="preserve">
+<g id="ww_24">
+	<g id="g6" transform="translate(-2,0)">
+		<g id="arc">
+			<path d="M33.25,36c-4.687,0-8.5-3.813-8.5-8.5c0-0.829,0.671-1.5,1.5-1.5s1.5,0.671,1.5,1.5c0,3.032,2.468,5.5,5.5,5.5
+				s5.5-2.468,5.5-5.5v-1c0-0.829,0.672-1.5,1.5-1.5s1.5,0.671,1.5,1.5v1C41.75,32.187,37.937,36,33.25,36z"/>
+		</g>
+		<g id="use9" transform="scale(-1,-1)" xlink:href="#arc">
+			<g id="arc_1_">
+				<path d="M12.25,30c-0.829,0-1.5-0.672-1.5-1.5v-1c0-4.687,3.813-8.5,8.5-8.5s8.5,3.813,8.5,8.5c0,0.828-0.671,1.5-1.5,1.5
+					s-1.5-0.672-1.5-1.5c0-3.033-2.467-5.5-5.5-5.5s-5.5,2.467-5.5,5.5v1C13.75,29.328,13.079,30,12.25,30z"/>
+			</g>
+		</g>
+	</g>
+	<g id="path11">
+		<polygon points="46.25,52 37.75,52 37.75,49 43.25,49 43.25,6 37.75,6 37.75,3 46.25,3 		"/>
+	</g>
+</g>
+</svg>

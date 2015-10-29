@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55px" height="55px"
+	 viewBox="0 0 55 55" enable-background="new 0 0 55 55" xml:space="preserve">
+<g id="ww_54">
+	<g id="ww_50" transform="translate(0,-2)">
+		<g id="circle6">
+			<circle cx="27.5" cy="27.65" r="5.5"/>
+		</g>
+		<g id="path8">
+			<path d="M26.501,38.35c-0.465,0-0.923-0.215-1.216-0.62c-0.486-0.671-0.336-1.609,0.335-2.095C28.322,33.679,30,30.619,30,27.65
+				c0-0.829,0.672-1.5,1.5-1.5s1.5,0.671,1.5,1.5c0,3.974-2.102,7.867-5.621,10.415C27.114,38.257,26.806,38.35,26.501,38.35z"/>
+		</g>
+	</g>
+	<g id="use10" xlink:href="#ww_50">
+		<g id="ww_50_1_" transform="translate(0,-2)">
+			<g id="circle6_1_">
+				<circle cx="27.5" cy="10.65" r="5.5"/>
+			</g>
+			<g id="path8_1_">
+				<path d="M26.501,21.35c-0.465,0-0.923-0.215-1.216-0.62c-0.486-0.671-0.336-1.609,0.335-2.095C28.322,16.679,30,13.619,30,10.65
+					c0-0.829,0.672-1.5,1.5-1.5s1.5,0.671,1.5,1.5c0,3.974-2.101,7.867-5.62,10.415C27.114,21.257,26.806,21.35,26.501,21.35z"/>
+			</g>
+		</g>
+	</g>
+	<g id="use12" xlink:href="#ww_50">
+		<g id="ww_50_2_" transform="translate(0,-2)">
+			<g id="circle6_2_">
+				<circle cx="27.5" cy="44.65" r="5.5"/>
+			</g>
+			<g id="path8_2_">
+				<path d="M26.501,55.35c-0.465,0-0.923-0.215-1.216-0.62c-0.486-0.671-0.336-1.609,0.335-2.095C28.322,50.679,30,47.62,30,44.65
+					c0-0.828,0.672-1.5,1.5-1.5s1.5,0.672,1.5,1.5c0,3.974-2.102,7.866-5.621,10.414C27.114,55.257,26.806,55.35,26.501,55.35z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
