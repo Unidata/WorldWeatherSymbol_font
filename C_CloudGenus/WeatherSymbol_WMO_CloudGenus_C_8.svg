@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="55"
+   height="55"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="WeatherSymbol_WMO_CloudGenus_C_8.svg">
+  <defs
+     id="defs5238" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview5236"
+     showgrid="false"
+     inkscape:zoom="4.2909091"
+     inkscape:cx="27.5"
+     inkscape:cy="27.5"
+     inkscape:window-x="2630"
+     inkscape:window-y="216"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title5226">Genus of cloud: Cumulus (Cu)</title>
+  <desc
+     id="desc5228">WMO international weather symbol: Genus of cloud: Cumulus (Cu)</desc>
+  <metadata
+     id="metadata5230">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/C_CloudGenus/WeatherSymbol_WMO_CloudGenus_C_8.svg">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Genus of cloud: Cumulus (Cu)</dc:title>
+        <dc:date>2013-01-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>WMO</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/306/0500/8</dc:identifier>
+        <dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>meteorology</rdf:li>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO international weather symbol: Genus of cloud: Cumulus (Cu): Version0.5: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Chris Little</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0.498,0,0,0.46,-2.63,5.42)"
+     id="layer1">
+    <g
+       transform="translate(-417,-444)"
+       id="g3288">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.98999977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 455.37462,499.65961 A 1.9589258,2.2285028 0 0 1 453.44583,497.4 c 0,-14.96941 10.70859,-27.15164 23.86717,-27.15164 13.15858,0 23.86717,12.18223 23.86717,27.15164 a 1.9589258,2.2285028 0 1 1 -3.91634,0 c 0,-12.5609 -8.9094,-22.69636 -19.95083,-22.69636 -11.04143,0 -19.95083,10.13546 -19.95083,22.69636 a 1.9589258,2.2285028 0 0 1 -1.98755,2.25961 z"
+         id="path3225"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.16599989;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 432.28906,539.11922 A 2.0897688,2.0897688 0 0 1 430.23172,537 c 0,-11.25652 5.48059,-23.50684 13.81102,-31.83726 8.33042,-8.33043 20.65813,-13.81102 33.15726,-13.81102 11.25652,0 23.50684,5.48059 31.83726,13.81102 8.33043,8.33042 13.81102,20.58074 13.81102,31.83726 a 2.0897688,2.0897688 0 1 1 -4.17656,0 c 0,-9.86348 -5.07941,-21.37316 -12.58898,-28.88274 -7.50958,-7.50957 -19.01926,-12.58898 -28.88274,-12.58898 -11.26087,0 -22.69316,5.07941 -30.20274,12.58898 -7.50957,7.50958 -12.58898,19.01926 -12.58898,28.88274 a 2.0897688,2.0897688 0 0 1 -2.11922,2.11922 z"
+         id="path3221"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
