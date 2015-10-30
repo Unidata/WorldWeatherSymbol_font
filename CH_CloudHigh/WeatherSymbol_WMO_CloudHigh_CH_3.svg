@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="0 0 55 55"
+   id="svg3056"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="WeatherSymbol_WMO_CloudHigh_CH_3.svg">
+  <defs
+     id="defs3647" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3645"
+     showgrid="false"
+     inkscape:zoom="4.2909091"
+     inkscape:cx="27.5"
+     inkscape:cy="27.5"
+     inkscape:window-x="2170"
+     inkscape:window-y="360"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3056" />
+  <title
+     id="title3638">Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus cumulonimbogenitus</title>
+  <desc
+     id="desc3640">WMO international weather symbol: Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Dense cirrus, often in the form of an anvil, being the remains of the upper parts of cumulonimbus</desc>
+  <metadata
+     id="metadata3642">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_3.svg">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus cumulonimbogenitus</dc:title>
+        <dc:date>2013-01-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>WMO</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/306/0509/3</dc:identifier>
+        <dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>meteorology</rdf:li>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO international weather symbol: Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus cumulonimbogenitus: Version0.5: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Chris Little</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="m 5,13 a 1.0001,1.0001 0 1 0 0,2 l 34,0 c 2.453086,0 5.051026,0.940906 6.732422,2.445312 1.8056,1.62605 2.767578,3.761857 2.767578,5.855469 0,2.205791 -0.961975,4.327085 -2.767578,5.953125 -4.63e-4,4.14e-4 -0.0015,-4.14e-4 -0.002,0 -4.1e-4,3.7e-4 4.1e-4,0.0016 0,0.002 -1.806991,1.616409 -3.005101,2.251664 -6.78125,2.445313 -2.110882,0.10825 -4.364324,0.73516 -6.078125,2.376953 -1.713802,1.641793 -2.775575,4.253319 -2.669922,7.951172 a 1.0001,1.0001 0 1 0 1.998047,-0.05859 c -0.09435,-3.302147 0.793489,-5.241012 2.054687,-6.449219 1.261199,-1.208206 3.007757,-1.730516 4.796875,-1.822265 4.022244,-0.206269 6.023903,-1.171058 8.015625,-2.953125 a 1.0001,1.0001 0 0 0 0.002,-0.002 C 49.261369,28.770432 50.5,26.094115 50.5,23.300781 c 0,-2.705555 -1.238631,-5.370041 -3.431641,-7.34375 a 1.0001,1.0001 0 0 0 -0.002,-0.002 C 44.947802,14.059485 41.946914,13 39,13 L 5,13 Z"
+     id="path3064"
+     inkscape:connector-curvature="0" />
+</svg>
