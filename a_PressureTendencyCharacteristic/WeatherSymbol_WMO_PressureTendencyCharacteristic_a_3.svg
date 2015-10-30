@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="55"
+   height="55"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="WeatherSymbol_WMO_PressureTendencyCharacteristic_a_3.svg">
+  <defs
+     id="defs3454" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3452"
+     showgrid="false"
+     inkscape:zoom="4.2909091"
+     inkscape:cx="27.5"
+     inkscape:cy="27.5"
+     inkscape:window-x="60"
+     inkscape:window-y="126"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title3443">Characteristic of pressure tendency during the three hours preceding the time of observation: Decreasing or steady, then increasing; or increasing, then increasing more rapidly</title>
+  <desc
+     id="desc3445">WMO international weather symbol: Characteristic of pressure tendency during the three hours preceding the time of observation: Decreasing or steady, then increasing; or increasing, then increasing more rapidly</desc>
+  <metadata
+     id="metadata3447">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/a_PressureTendencyCharacteristic/WeatherSymbol_WMO_PressureTendencyCharacteristic_a_3.svg">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Characteristic of pressure tendency during the three hours preceding the time of observation: Decreasing or steady, then increasing; or increasing, then increasing more rapidly: Version0.5: statusProvisional</dc:title>
+        <dc:date>2013-01-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>WMO</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/306/0200/3</dc:identifier>
+        <dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>meteorology</rdf:li>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO international weather symbol: Characteristic of pressure tendency during the three hours preceding the time of observation: Decreasing or steady, then increasing; or increasing, then increasing more rapidly: Version0.5: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Chris Little</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g3791">
+    <path
+       transform="matrix(-0.894,-0.447,0.586,-0.81,0,0)"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m -42.890002,-36.599998 c 1.39054,0 2.51,1.03026 2.51,2.309999 l 0,48.080001 c 0,1.27974 -1.11946,2.31 -2.51,2.31 -1.39054,0 -2.51,-1.03026 -2.51,-2.31 l 0,-48.080001 c 0,-1.279739 1.11946,-2.309999 2.51,-2.309999 z"
+       id="rect3005" />
+    <path
+       transform="matrix(-0.901,0.433,-0.57,-0.821,0,0)"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.97,-53.200001 c 1.39608,0 2.52,1.0258 2.52,2.3 l 0,18.4 c 0,1.2742 -1.12392,2.3 -2.52,2.3 -1.39608,0 -2.5200002,-1.0258 -2.5200002,-2.3 l 0,-18.4 c 0,-1.2742 1.1239202,-2.3 2.5200002,-2.3 z"
+       id="rect3017" />
+  </g>
+</svg>
