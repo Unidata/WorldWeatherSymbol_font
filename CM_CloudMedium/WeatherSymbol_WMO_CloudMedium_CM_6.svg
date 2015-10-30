@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="55"
+   height="55"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="WeatherSymbol_WMO_CloudMedium_CM_6.svg">
+  <defs
+     id="defs4647" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4645"
+     showgrid="false"
+     inkscape:zoom="4.2909091"
+     inkscape:cx="27.5"
+     inkscape:cy="27.5"
+     inkscape:window-x="3056"
+     inkscape:window-y="273"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4632">Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus cumulogenitus (or cumulonimbogenitus)</title>
+  <desc
+     id="desc4634">WMO international weather symbol: Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus resulting from the spreading out of cumulus (or cumulonimbus)</desc>
+  <metadata
+     id="metadata4636">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_6.svg">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus cumulogenitus (or cumulonimbogenitus)</dc:title>
+        <dc:date>2013-01-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>WMO</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/306/0515/6</dc:identifier>
+        <dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>meteorology</rdf:li>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO international weather symbol: Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus cumulogenitus (or cumulonimbogenitus): Version0.5: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Chris Little</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-0.2,-7.92)"
+     id="g3856">
+    <g
+       transform="matrix(0.465,0,0,0.387,-0.26,-14.6)"
+       id="layer1">
+      <g
+         id="g8558">
+        <g
+           transform="matrix(0.802,0,0,0.995,-69.5,-444)"
+           id="g3292" />
+        <path
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.18099999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 105.82703,92.02 a 2.1496349,2.5866486 0 1 0 -4.29406,0 c 0,13.03667 -8.786893,23.55961 -19.69297,23.55961 -10.906077,0 -19.692968,-10.52294 -19.692968,-23.55961 a 2.1496349,2.5866486 0 1 0 -4.294064,0 c 0,15.8463 10.769311,28.7352 23.987032,28.7352 13.217721,0 23.98703,-12.8889 23.98703,-28.7352 z"
+           id="path8520"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17799997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 61.695802,93.183221 a 2.1500649,2.5859685 0 0 0 -4.291604,0.128614 C 57.129254,106.38183 48.089931,116.6711 37.150976,116.34219 26.212024,116.01327 17.621928,105.19862 17.895802,92.128594 a 2.1500649,2.5859685 0 1 0 -4.291604,-0.137188 c -0.332709,15.877914 10.189566,29.122624 23.439844,29.521034 13.250281,0.39842 24.317745,-12.19412 24.65176,-28.071991 a 2.1500649,2.5859685 0 0 0 0,-0.257228 z"
+           id="path8520-8"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.56699997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 47.4875,46.966328 c 0.06639,-5.629351 -2.419592,-9.983607 -6.209999,-12.884061 -3.79041,-2.900458 -8.833259,-4.361837 -13.875002,-4.404375 -5.041744,-0.04254 -10.114103,1.327985 -13.972501,4.163905 -3.8583935,2.83592 -6.4504473,7.153467 -6.5174975,12.782811 a 1.0887488,0.91863182 0 1 0 2.174999,0.01899 c 0.061582,-5.170107 2.3694795,-8.912881 5.7749995,-11.41594 3.405523,-2.503058 7.959563,-3.746739 12.517501,-3.70828 4.557938,0.03846 9.089484,1.363418 12.434999,3.923436 3.345516,2.560021 5.558469,6.340751 5.497501,11.510861 a 1.0887488,0.91863182 0 1 0 2.175,0.01266 z"
+       id="path3086"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
