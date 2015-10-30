@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="55"
+   height="55"
+   viewBox="0 0 55 55"
+   id="svg7093"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="WeatherSymbol_WMO_TotalCloudCover_N_7.svg">
+  <defs
+     id="defs4759" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1097"
+     inkscape:window-height="751"
+     id="namedview4757"
+     showgrid="false"
+     inkscape:zoom="8.02"
+     inkscape:cx="18.177966"
+     inkscape:cy="27.5"
+     inkscape:window-x="2103"
+     inkscape:window-y="123"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7093" />
+  <title
+     id="title4747">Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10</title>
+  <desc
+     id="desc4749">WMO international weather symbol: Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10</desc>
+  <metadata
+     id="metadata4751">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="https://raw.github.com/OGCMetOceanDWG/WorldWeatherSymbols/master/N_TotalCloudCover/WeatherSymbol_WMO_TotalCloudCover_N_7.svg">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10</dc:title>
+        <dc:date>2013-01-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>WMO CBS IPET-DR&amp;C</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>WMO</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons Attribution 3.0 Unported Licence</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier>http://codes.wmo.int/306/2700/7</dc:identifier>
+        <dc:source>WMO-No.485 Manual on the Global Data-processing and Forecasting System, Volume I, Part II, Section 4, Appendix II-4</dc:source>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>meteorology</rdf:li>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Global</dc:coverage>
+        <dc:description>WMO international weather symbol: Total cloud cover: 7 oktas or more, but not 8 oktas 9/10 or more, but not 10/10: Version0.5: statusPROVISIONAL</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Chris Little</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0.903,0,0,0.92,-1.59,6.6)"
+     id="g7111">
+    <g
+       transform="translate(0,-9)"
+       id="g7097"
+       style="fill:#000000;stroke:#000000;stroke-width:3">
+      <path
+         style="stroke-width:2.7343812"
+         mask="none"
+         d="M 27.306641,2 C 13.342311,1.9993492 2.0216112,13.532542 2.0214844,27.759766 2.0216118,41.98699 13.342312,53.520182 27.306641,53.519531 41.270207,53.519083 52.589717,41.986212 52.589844,27.759766 52.589717,13.533319 41.270208,2.0004484 27.306641,2 Z M 25.307,4.7597656 l 4,2.345e-4 0,45.9997659 -4,0 z"
+         transform="matrix(1.1074197,0,0,1.0869565,1.7607973,1.826087)"
+         id="circle7099"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+    </g>
+  </g>
+</svg>
