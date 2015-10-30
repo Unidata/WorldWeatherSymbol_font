@@ -5,13 +5,7 @@
 	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55px" height="55px"
 	 viewBox="0 0 55 55" enable-background="new 0 0 55 55" xml:space="preserve">
-<g id="ww_63">
-	<circle id="point" cx="27.5" cy="20.75" r="5.5"/>
-	<g id="use6" transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" xlink:href="#point">
-		<circle id="point_1_" cx="35.294" cy="34.25" r="5.5"/>
-	</g>
-	<g id="use8" transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" xlink:href="#point">
-		<circle id="point_2_" cx="19.706" cy="34.25" r="5.5"/>
-	</g>
-</g>
+<circle id="point" cx="27.5" cy="20.75" r="5.5"/>
+<circle id="point_1_" cx="35.294" cy="34.25" r="5.5"/>
+<circle id="point_2_" cx="19.706" cy="34.25" r="5.5"/>
 </svg>
