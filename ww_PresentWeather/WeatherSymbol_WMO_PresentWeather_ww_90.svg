@@ -1,20 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55px" height="55px"
-	 viewBox="0 0 55 55" enable-background="new 0 0 55 55" xml:space="preserve">
-<g id="ww_90">
-	<g id="path6">
-		<path d="M21.5,19.7h12l-6-10.4L21.5,19.7z"/>
-		<path d="M36.097,21.2H18.903L27.5,6.298L36.097,21.2z M24.097,18.2h6.806L27.5,12.302L24.097,18.2z"/>
-	</g>
-	<g id="path8">
-		<path d="M27.5,49.535L16.732,24.2h21.535L27.5,49.535z M21.268,27.2L27.5,41.865L33.732,27.2H21.268z"/>
-	</g>
-	<g id="path10">
-		<rect x="21.5" y="30.2" width="12" height="3"/>
-	</g>
-</g>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   x="0px"
+   y="0px"
+   width="55px"
+   height="55px"
+   viewBox="0 0 55 55"
+   enable-background="new 0 0 55 55"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="WeatherSymbol_WMO_PresentWeather_ww_90.svg"><metadata
+     id="metadata11115"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs11113" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="700"
+     inkscape:window-height="480"
+     id="namedview11111"
+     showgrid="false"
+     inkscape:zoom="4.2909091"
+     inkscape:cx="24.004237"
+     inkscape:cy="27.5"
+     inkscape:window-x="569"
+     inkscape:window-y="73"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" /><g
+     id="ww_90"><g
+       id="path6"><path
+         d="M 36.097,21.2 18.903,21.2 27.5,6.298 Z"
+         id="path11103"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" /></g><g
+       id="path8"><path
+         d="M27.5,49.535L16.732,24.2h21.535L27.5,49.535z M21.268,27.2L27.5,41.865L33.732,27.2H21.268z"
+         id="path11106" /></g><g
+       id="path10"><rect
+         x="21.5"
+         y="30.2"
+         width="12"
+         height="3"
+         id="rect11109" /></g></g></svg>
